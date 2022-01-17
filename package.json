@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/react": "^17.0.38",
+    "@typescript-eslint/eslint-plugin": "^5.9.1",
+    "@typescript-eslint/parser": "^5.9.1",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.7",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  },
+  "name": "gistem-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint": "eslint --ext .ts,.tsx --fix"
+  },
+  "husky":{
+    "hooks": {
+      "pre-commmit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "./src/**/*.+ts(ts|tsx)": ["esling --fix", "git add"],
+    "/src/**/*.+(css|scss|js)": "prettier --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
