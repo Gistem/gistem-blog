@@ -9,8 +9,11 @@ const about: React.FC<aboutProps> = () => {
         
         <Layout pageTitle='About'>
             <Container>
-            <h1>About Us</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores omnis, temporibus ex ipsum nam deserunt quam quos, provident praesentium asperiores, molestiae sed odio earum illo. Sit tempore magni at accusamus!</p>
+            <h1>About Me</h1>
+            <p>Hi there! <br/>
+            - Gaston here, <br/>
+            I'm an Argentine swimming's fan. I've been in master swimming since 2014.<br/>
+             In these years I have studied, learned & experienced how to improve in this sport,<br/> so I want to share my experience.</p>
         </Container>
         </Layout>
     )

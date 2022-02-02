@@ -1,15 +1,17 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
-export const ButtonElement = styled.button`
+const ButtonElement = styled.button`
   border: none;
   background: ${({ theme }) => theme.secondary};
   padding: 10px 20px;
   text-transform: uppercase;
-  curson: pointer;
+  cursor: pointer;
   color: ${({ theme }) => theme.white};
   font-weight: bold;
 
   &:hover {
-      opacity: 0.8;
+    opacity: 0.8;
   }
 `
+
+export default ButtonElement

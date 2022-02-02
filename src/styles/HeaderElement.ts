@@ -9,6 +9,7 @@ const HeaderElement = styled.header`
  }
  a {
      padding: 0 0.5em;
+     transition: 0.1
  }
  a:hover {
      text-decoration: underline;

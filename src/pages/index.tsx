@@ -3,7 +3,6 @@ import PostPreview from '../types/PostPreview'
 import { GetStaticProps, NextPage } from 'next'
 import fs from 'fs'
 import matter from 'gray-matter'
-import PostListing from '../components/PostListing'
 import Hero from '../components/Hero'
 import MainSection from '../components/MainSection'
 interface BlogProps {
