@@ -6,9 +6,9 @@ date: 2022-01-29
 
 ## - ¿Qué es y por qué es tan importante?
 
-Si no conoces este concepto, puede llegar a sonarte quizás un tanto extraño. Se puede resumir en sentir el agua cuando estamos nadando. Puede sonar sensillo pero entenderlo es de mucha ayuda a la hora de querer mejorar tu nado.
+Si no conoces este concepto, puede llegar a sonarte quizás un tanto extraño. Se puede resumir en sentir el agua cuando estamos nadando. Puede sonar sencillo pero entenderlo es de mucha ayuda a la hora de querer mejorar tu nado.
 
-### ¿Por que?
+### ¿Por qué?
 
 -Porque una mejor percepción del agua en tu cuerpo permite, por ejemplo:
 
@@ -29,8 +29,6 @@ Entre otras cosas.
 
 Una vez dicho esto avanzamos.
 
-![Let's Start!](/public/img/Start.png 'Start')
-
 ## - ¿Cómo funciona en nuestro cuerpo y cómo dominarla?
 
 La sensibilidad es una habilidad que no se consigue de un día para el otro. Requiere en gran parte de desarrollar nuestras **_conexiones neuromusculares_** y esto es un proceso que lleva tiempo.
@@ -45,11 +43,9 @@ Para poder desarrollar nuestra sensibilidad, es primordial desarrollar nuestras 
 
 Hay varios ejercicios de sensibilidad, como por ejemplo el _[sculling drill](https://myswimpro.com/blog/2020/08/10/sculling-drills-to-improve-your-feel-of-the-water/)_, la idea detras de estos ejercicios es detectar con nuestros músculos los puntos donde mejor pueden aplicar y aprovechar su fuerza. Si son practicados concientemente son muy útiles.
 
-![Sculling Drill!](/public/img/ScullingDrill.gif 'Sculling Drill')
-
 Sin embargo tambien hay otras técnicas que no solemos tener en cuenta y que podemos usar siempre mientras nadamos, como por ejemplo la **visualización**. Esta consiste en visualizar, concentrarse en tu cuerpo y la actividad que está teniendo, esto nos va a permitir llevarlo a la actividad deseada. Puede sonar complejo pero es algo que con práctica terminarás haciendolo de forma automática.
 
-> Un ejemplo práctico a la hora de nadar sería, a la hora de brazear, en vez de brazear automáticamente, visualizar por ejemplo nuestras manos y antebrazos. Si sentimos que nuestros antebrazos no están trabajando como deberían podríamos analizar por ejemplo, si estamos entrando las manos sin generar muchas burbujas (lo que haría que agarremos menos agua), si el trayecto de nuestra brazada es óptimo, etc. Ser concientes de esto mientras nadamos, nos ayudará a mejorar mucho la calidad de los metros que nadamos y así progresar más rápido.
+> Un ejemplo práctico a la hora de nadar sería, cuando braceamos, en vez de hacerlo automáticamente, visualizar por ejemplo nuestras manos y antebrazos. Si sentimos que nuestros antebrazos no están trabajando como deberían podríamos analizar por ejemplo, si estamos entrando las manos sin generar muchas burbujas (lo que haría que agarremos menos agua), si el trayecto de nuestra brazada es óptimo, etc. Ser concientes de nuestro cuerpo a la hora de nadar, nos ayudará a mejorar mucho la calidad de nuestro entrenamiento y así progresar más rápido.
 
 > Es ideal hacer ejercicios de sensibilidad para que a la hora de querer practicar la **visualización** podamos tener puntos de referencias para poder aplicar mejor nuestra fuerza.
 
