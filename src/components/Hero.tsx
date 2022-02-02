@@ -9,7 +9,7 @@ interface HeroProps {}
 const Hero: React.FC<HeroProps> = () => {
     return (
         <HeroContainer>
-            <Title hero>Gaston's | Blog</Title>
+            <Title hero>Gaston's  Blog</Title>
             <Paragraph light>Compartiendo mi experiencia & pasión</Paragraph>
             <ButtonElement>Suscríbete</ButtonElement>
         </HeroContainer>
