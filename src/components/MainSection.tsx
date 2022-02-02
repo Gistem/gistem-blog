@@ -13,7 +13,7 @@ const MainSection: React.FC<MainSectionProps> = ({ posts }) => {
     return (
         <main>
             <Container>
-                <Title>All Posts</Title>
+                <Title> - Posts</Title>
                 <PostListing posts={posts} />
             </Container>
         </main>

@@ -12,6 +12,7 @@ const Hero: React.FC<HeroProps> = () => {
             <Title hero>Gaston's  Blog</Title>
             <Paragraph light>Compartiendo mi experiencia & pasión</Paragraph>
             <ButtonElement>Suscríbete</ButtonElement>
+            <p>working on the button 👨‍💻</p>
         </HeroContainer>
     )
 }

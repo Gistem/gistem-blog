@@ -3,6 +3,7 @@ import PostPreview from '../types/PostPreview'
 import AppLink from './AppLink'
 import ListingElement from '../styles/ListingElement'
 
+
 interface ListingItemProps {
     post: PostPreview
 }

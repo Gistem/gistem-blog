@@ -65,6 +65,8 @@ const Hero = () => {
       children: "Compartiendo mi experiencia & pasi\xF3n"
     }), /*#__PURE__*/jsx_runtime_.jsx(ButtonElements, {
       children: "Suscr\xEDbete"
+    }), /*#__PURE__*/jsx_runtime_.jsx("p", {
+      children: "working on the button \uD83D\uDC68\u200D\uD83D\uDCBB"
     })]
   });
 };
@@ -77,7 +79,19 @@ var AppLink = __webpack_require__(5136);
 const ListingElement = external_styled_components_default().div.withConfig({
   displayName: "ListingElement",
   componentId: "sc-1jpil98-0"
-})(["margin-bottom:1.4em;a{font-weight:bold;font-size:1.1em;transition:0.1s;}a:hover{border-bottom:solid 2px #111;}"]);
+})(["margin-bottom:1.4em;a{font-size:1.1em;transition:0.5s;background:", ";padding:2px 4px;cursor:pointer;outline:solid 2px ", ";color:", ";}a:hover{outline:solid 2px ", ";color:", ";background:", ";opacity:0.8;}"], ({
+  theme
+}) => theme.white, ({
+  theme
+}) => theme.dark, ({
+  theme
+}) => theme.dark, ({
+  theme
+}) => theme.secondary, ({
+  theme
+}) => theme.white, ({
+  theme
+}) => theme.secondary);
 /* harmony default export */ const styles_ListingElement = (ListingElement);
 ;// CONCATENATED MODULE: ./src/components/ListingItem.tsx
 
@@ -131,7 +145,7 @@ const MainSection = ({
   return /*#__PURE__*/jsx_runtime_.jsx("main", {
     children: /*#__PURE__*/(0,jsx_runtime_.jsxs)(Containers/* Container */.W2, {
       children: [/*#__PURE__*/jsx_runtime_.jsx(TextElements/* Title */.Dx, {
-        children: "All Posts"
+        children: " - Posts"
       }), /*#__PURE__*/jsx_runtime_.jsx(components_PostListing, {
         posts: posts
       })]
