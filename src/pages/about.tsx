@@ -9,11 +9,15 @@ const about: React.FC<aboutProps> = () => {
         
         <Layout pageTitle='About'>
             <Container>
-            <h1>About Me</h1>
-            <p>Hi there! <br/>
-            - Gaston here, <br/>
-            I'm an Argentine swimming's fan. I've been in master swimming since 2014.<br/>
-             In these years I have studied, learned & experienced how to improve in this sport,<br/> so I want to share my experience.</p>
+            <h1>Acerca de mí</h1>
+            <p>Hola, <br/>
+            Muchas gracias por el interes! <br/>
+            Me llamo Gastón, soy de Argentina fanático de la natación.<br/>
+            Di mis primeros pasos en la natación master en el 2014 y desde ese entonces no he dejado de querer mejorar.<br/><br/>
+            En estos últimos años por curiosidad sobre como mejorar en este deporte, he estudiado acerca del cuerpo humano,
+             su psique, nutrición y varios otros factores que fui considerando importantes para ser mejor nadador.<br/><br/>
+             La idea es este blog es intentar transmitir lo que he aprendido y poder seguir aprendiendo<br/>
+             Espero que lo disfruten y les sea de utilidad!</p>
         </Container>
         </Layout>
     )
